@@ -1,0 +1,2 @@
+gcc -o BST_arr/bst.exe BST_arr/main.c BST_arr/lib/main.c BST_arr/lib/operations.c BST_arr/lib/properties.c BST_arr/lib/traversal.c;
+./BST_arr/bst.exe # run the program
